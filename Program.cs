@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace game
+namespace ga
 {
     internal class Program
     {
